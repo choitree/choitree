@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## What I did
+## projects
 
 &emsp;&emsp;‣ **[Issue Tracker](https://github.com/malaheaven/issue-tracker)** (21.06 - 21.06)<br>
 &emsp;&emsp;&emsp;&emsp;: 협업을 위해 이슈를 발행하고 효율적으로 관리할 수 있도록 도와주는 서비스 (GitHub Issue Clone project)
@@ -64,4 +64,11 @@ Here are some ideas to get you started:
       2021 Java web backend masters course
         - Java 기반 웹 백엔드 과정 학습
         - CS와 Java 과제, 다섯번의 프로젝트
+
+- **한국SW기슬진흥협회 KOSTA** &emsp;&emsp; 20.02 ~ 20.06 &emsp;&emsp;&emsp;&emsp; <br>
+
+      Java 기반의 시큐어 코딩 개발자 양성
+        - Java 기반 웹 백엔드 과정 학습
+        - 기초적인 css, html, javascript 학습
+        - 2번의 프로젝트
  
