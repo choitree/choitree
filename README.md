@@ -72,3 +72,13 @@ Here are some ideas to get you started:
         - 기초적인 css, html, javascript 학습
         - 2번의 프로젝트
  
+## 🏢 Career
+
+* **서울시전자상거래센터** &emsp;&emsp; 15.10 ~ 19.11 &emsp;&emsp;&emsp;&emsp; <br>
+
+
+      서울시 산하의 전자상거래 관련 소비자 상담 기관
+        - 전자상거래 관련 소비자 분쟁 처리
+        - 온라인 쇼핑몰 모니터링
+        - 온라인 쇼핑몰 피해 주의보 보도자료 작성
+      
