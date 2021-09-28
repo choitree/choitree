@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;‣ **[Airbnb](https://github.com/choitree/todo-list)** (21.04 - 21.04)<br>
 &emsp;&emsp;&emsp;&emsp;: todo list를 생성하는 서비스 (todo-list Clone project) 
+
+&emsp;&emsp;‣ **[Sidedish](https://github.com/choitree/sidedish)** (21.04 - 21.04)<br>
+&emsp;&emsp;&emsp;&emsp;: 배민찬 클론 서비스 (todo-list Clone project) 
  
  
 <br>
