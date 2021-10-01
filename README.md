@@ -47,14 +47,23 @@ Here are some ideas to get you started:
 
 ## projects
 
-&emsp;&emsp;‣ **[Issue Tracker](https://github.com/malaheaven/issue-tracker)** (21.06 - 21.06)<br>
-&emsp;&emsp;&emsp;&emsp;: 협업을 위해 이슈를 발행하고 효율적으로 관리할 수 있도록 도와주는 서비스 (GitHub Issue Clone project)
+&emsp;&emsp;‣ **[Hi-Fi](github.com/hi-Fi-Club/BE)** (21.07 - )
 
-&emsp;&emsp;‣ **[Airbnb](https://github.com/choitree/todo-list)** (21.04 - 21.04)<br>
-&emsp;&emsp;&emsp;&emsp;: todo list를 생성하는 서비스 (todo-list Clone project) 
+> 스터디원 모집 및 스터디룸 예약 서비스
+>
+> 현재 프로젝트원 모집 후 기획/개발을 동시에 진행중이며, lite버전 및 버전별로 기능을 추가해서 업데이트 예정
 
-&emsp;&emsp;‣ **[Sidedish](https://github.com/choitree/sidedish)** (21.04 - 21.04)<br>
-&emsp;&emsp;&emsp;&emsp;: 배민찬 클론 서비스 (todo-list Clone project) 
+&emsp;&emsp;‣ **[Issue Tracker](https://github.com/malaheaven/issue-tracker)** (21.06 - 21.06) 
+
+> 협업을 위해 이슈를 발행하고 효율적으로 관리할 수 있도록 도와주는 서비스 (GitHub Issue Clone project)
+
+&emsp;&emsp;‣ **[Airbnb](https://github.com/choitree/todo-list)** (21.04 - 21.04)
+
+> todo list를 생성하는 서비스 (todo-list Clone project) 
+
+&emsp;&emsp;‣ **[Sidedish](https://github.com/choitree/sidedish)** (21.04 - 21.04)
+
+> 배민찬 클론 서비스 (todo-list Clone project) 
  
  
 <br>
