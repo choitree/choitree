@@ -1,27 +1,24 @@
 
-<!--
-**choitree/choitree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 나무처럼 굳건하게 자리를 지키는 개발자입니다🌲
+
+> 저의 별명은 트리입니다. 가족이 지어준 별명이였고 개발을 시작하면서 닉네임을 정해야하는 경우 트리라는 이름을 사용했습니다.  
+> 해결되지 않는 일이 있으면 진득하게 앉아서 그 일을 해결하기 위해 노력하는 성격때문에 붙여진 별명입니다.   
+> 제 별명은 이미 프로그래밍 개념에서 많이 사용되는 용어였더군요. 그 트리가 불리는 것처럼 저 또한 이 필드에서 뿌리를 내리고 자리잡고 싶습니다.   
+> 
+> 제 전공은 프로그래밍과 무관한 소비자학이고, 그 중에서도 제 강점은 소비자법입니다.  
+> 이전 직장에서는 전자상거래법을 사용해서 소비자와 판매자를 중재하는 업무를 하였고, 온라인몰 모니터링에 관한 업무를 하였습니다.    
+> 저는 전자상거래법에 능통하기 때문에 커머스 사이트 개발 시에는 개발뿐 아니라,   
+> 법률적으로 놓치는 부분이 있다면 미리 잡아낼 수 있는 장점이 있습니다.   
+> 또한, 사이트 리뉴얼 회의에 클라이언트 입장으로 참여하였습니다.   
+> 서버와 클라이언트 모든 입장에서의 경험이 있기 떄문에 비개발자의 눈높이에서 이해하기 쉽게 소통할 수 있습니다.   
 
 ### Tech Stack
 
 ###### LANGUAGE
 <p>
-<img src="https://img.shields.io/badge/Java-FFA01E?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-FFA01E?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </p>
 
 ###### DB
@@ -41,7 +38,6 @@ Here are some ideas to get you started:
 <p>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-
 </p>
 
 
