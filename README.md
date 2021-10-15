@@ -49,9 +49,8 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;‣ **[Hi-Fi](github.com/hi-Fi-Club/BE)** (21.07 - )
 
-> 스터디원 모집 및 스터디룸 예약 서비스
->
-> 현재 프로젝트원 모집 후 기획/개발을 동시에 진행중이며, lite버전 및 버전별로 기능을 추가해서 업데이트 예정
+> 스터디원 모집 및 스터디룸 예약 서비스      
+> 현재 프로젝트원 모집 후 기획/개발을 동시에 진행중이며, lite버전 및 버전별로 기능을 추가해서 업데이트 예정   
 > 사용자가 선택한 위치와 선택한 관심 분야를 기반으로 스터디원과 스터디룸을 쉽게 찾아서 예약까지 해결할 수 있도록 서비스 개발 중
 
 &emsp;&emsp;‣ **[Issue Tracker](https://github.com/choitree/issue-tracker)** (21.06 - 21.06) 
