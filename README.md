@@ -42,7 +42,7 @@
 
 ## projects
 
-&emsp;&emsp;‣ **[Hi-Fi](https://github.com/hi-Fi-Club/BE)** (21.07 - )
+&emsp;&emsp;‣ **[Hi-Fi](https://github.com/Hi-Fi-Club/BE/wiki)** (21.07 - )
 
 > 스터디원 모집 및 스터디룸 예약 서비스      
 > 현재 프로젝트원 모집 후 기획/개발을 동시에 진행중이며, lite버전 및 버전별로 기능을 추가해서 업데이트 예정   
