@@ -42,7 +42,7 @@
 
 ## projects
 
-&emsp;&emsp;‣ **[Hani-For-Fam](https://github.com/choitree/hani-for-fam)** (22.03 - )
+&emsp;&emsp;‣ **[Hani-For-Fam](https://github.com/choitree/hani_for_fam)** (22.03 - )
 
 > 한의원 전자장부 프로젝트     
 > 부모님이 한의원에서 실제로 사용하는 차트, 장부를 기반으로 전자문서화를 하기 위한 프로젝트  
