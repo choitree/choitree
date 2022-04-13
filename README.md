@@ -42,11 +42,12 @@
 
 ## projects
 
-&emsp;&emsp;‣ **[Hi-Fi](https://github.com/Hi-Fi-Club/BE/wiki)** (21.07 - )
+&emsp;&emsp;‣ **[Hani-For-Fam](https://github.com/choitree/hani-for-fam)** (22.03 - )
 
-> 스터디원 모집 및 스터디룸 예약 서비스      
-> 현재 프로젝트원 모집 후 기획/개발을 동시에 진행중이며, lite버전 및 버전별로 기능을 추가해서 업데이트 예정   
-> 사용자가 선택한 위치와 선택한 관심 분야를 기반으로 스터디원과 스터디룸을 쉽게 찾아서 예약까지 해결할 수 있도록 서비스 개발 중
+> 한의원 전자장부 프로젝트     
+> 부모님이 한의원에서 실제로 사용하는 차트, 장부를 기반으로 전자문서화를 하기 위한 프로젝트  
+> 솔로 프로젝트로 개발중이며, 백엔드 개발 후 간단하게 프론트 작업 예정
+> 장부 개발 후 게시판 및 OAuth 로그인 기능을 구현하여 배포 예정
 
 &emsp;&emsp;‣ **[Issue Tracker](https://github.com/choitree/issue-tracker)** (21.06 - 21.06) 
 
