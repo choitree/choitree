@@ -40,6 +40,18 @@
 
 ## projects
 
+&emsp;&emsp;‣ **[MyTime](https://github.com/CodeQuartette/myTime)** (23.07 - 23.11)
+
+> 일정 관리를 해주는 프로젝트  
+> 스케줄과 할 일, 습관에 대한 기능이 구현  
+> JPA와 Querydsl, JDBC를 사용했으며, Custom Query 사용으로 n+1문제를 해결  
+> 테스트 코드를 작성 및 RestDocs를 적용 [여기](http://43.202.211.239:8080/docs/index.html)서 RestDocs 확인 가능
+> Redis를 사용해서 복합 조회 시, 캐시가 생기도록 구현  
+> 로컬 환경에서는 Docker를 사용해서 DB를 생성, 사용  
+> AWS를 사용해서 배포  
+    - VPC 내부에 3개의 subnet를 두었고, public subnet에는 web server, private subnet에는 DB를 두는 구조로 개발  
+    - GitHub Action과 Code Deploy를 사용해서, main branch에 merge하면 자동 배포되도록 개발  
+
 &emsp;&emsp;‣ **[Hani-For-Fam](https://github.com/choitree/hani_for_fam)** (22.03 - )
 
 > 한의원 전자장부 프로젝트     
